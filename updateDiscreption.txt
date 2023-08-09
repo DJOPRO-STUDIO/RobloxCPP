@@ -1,4 +1,4 @@
 DJOPRO STUDIO 
 ROBLOXC++ UPDATES:
 
-1. none
+1. Fix the Update Verification System Problem
