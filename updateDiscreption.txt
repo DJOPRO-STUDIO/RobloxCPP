@@ -1,5 +1,4 @@
 DJOPRO STUDIO 
 ROBLOXC++ UPDATES:
 
-1. " What's News " Dialog has been added in this new version
-2. Fix the UVS bug
+1. " What's News " Dialog has been updated
