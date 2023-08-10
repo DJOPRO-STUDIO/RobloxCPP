@@ -7,6 +7,6 @@ Comming soon :
 
 Available :
 
-RobloxC++ Update up to 1.1.0.0
+RobloxC++ Update up to 1.1.1.0
 What's new in this Update:
-1. "What's news" Dialog ahas been Updated
+1. "What's news" Dialog is Updated
