@@ -1,8 +1,6 @@
 Comming soon :
 
-RobloxC++ Update up to 1.1.1.0
-What's new in this Update:
-1. New option in the "What's News" Dialog
+ Nothing for now :)
 
 ------------------------------------------------------------------------------------------------
 
@@ -11,4 +9,4 @@ Available :
 
 RobloxC++ Update up to 1.1.0.0
 What's new in this Update:
-1. "What's news" Dialog added on this new Update
+1. "What's news" Dialog ahas been Updated
