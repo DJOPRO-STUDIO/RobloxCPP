@@ -1,4 +1,4 @@
 DJOPRO STUDIO 
 ROBLOXC++ UPDATES:
 
-1. Fix the Update Verification System Problem
+1. "What's News" Dialog has been added in this new version
