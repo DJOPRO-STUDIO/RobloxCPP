@@ -1,4 +1,7 @@
 DJOPRO STUDIO 
 ROBLOXC++ UPDATES:
 
-1. " What's News " Dialog has been updated
+1. Second Generation of RobloxC++
+2. New Design
+3. New Logo
+4. New Features
