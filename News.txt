@@ -1,9 +1,9 @@
-**************  BIG NEWS !!!! ************
-******************************************
+Welcome to the next generation of RobloxC++
 
+With new design and new logo and a lot of features
 
-The Update 2.0 is comming soon 
-    with a new design and
-      a new things !!
+So , Say HI to 
 
- so stay tuns !!!
+ROBLOXC++ 2.0
+is now available
+
