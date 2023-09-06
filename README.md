@@ -8,6 +8,6 @@ License : MIT
 ⓘ  The Software is not 100% finished when he be publish so if you the Software had something wrong, you can report it by sending an Email on :
 - jasseriahi50@gmail.com
 
-Version 1.0.0.0 is comming soon !
+Version 2.0.0.0 is now available !
 
 You can also visit the DJ STUDIO'S WEBSITE ON : https://sites.google.com/view/djstudiosite
