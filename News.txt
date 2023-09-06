@@ -1,8 +1,17 @@
-Welcome to the next generation of RobloxC++
+DJ STUDIO has decided to stop the updates at September 6, 2023
 
-With new design and new logo and a lot of features
+So for now, The last Update available is the 2.0.0.0
+ 
 
-So , Say HI to 
+Why we just stopped the Updates ?
+- DJ STUDIO has stopped the Updates in September 6, 2023 because all of the file of the Software "RobloxC++" has been damaged .
 
-ROBLOXC++ 2.0
-is now available
+So Why they damaged ?
+- When DJ STUDIO he's preparing the 2.0.1.0 Update which is the LICENSE Update, suddenly , the Software has damaged all of the files.
+
+So thanks for installing RobloxC++ but now 
+ we can say that "RobloxC++ is dead"
+
+Of course not, we are doing the maximum for correcting the problem of the files
+
+if we can't the software he will be return to the design of the 1 generation of RobloxC++
